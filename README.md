@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Adeola! <br/><a href="https://www.linkedin.com/in/seunadeola/">IT Auditor</a>, 
+  <a href="https://github.com/Adeolaode0">Programmer</a>
 
-<!--
-**Adeolaode0/Adeolaode0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Control Testing Automation web app</b>
+  - [Testing controls made easy](https://audit-flow-ai.onrender.com/)
+  - [Resume Tailor](https://resumesync-py7e.onrender.com/)
+- <b>Python</b>
+  - [Control testing Web Application](https://github.com/Adeolaode0/Audit-Flow-AI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Certifications</h2>
+
+<h2>GRC Tools</h2> 
+
+<h2> 🤳 Connect with me:</h2> 
+
+-[LinkedIn](https://www.linkedin.com/in/seunadeola/)
