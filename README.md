@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Adeola Odeyemi</h1>
+<h1 align="center">👋 Hi, I'm Adeola Seun Odeyemi</h1>
 <h3 align="center">IT Auditor • AI Developer • Cyber Risk & Automation</h3>
 
 <p align="center">
