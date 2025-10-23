@@ -20,14 +20,13 @@ IT Auditor & programmer building AI tools for control testing, evidence analysis
 
 ---
 
-
 ## 🧩 Featured Projects
 
 | Project | Description | Tech Stack | Screenshots |
 |----------|--------------|-------------|--------------|
-| 🧠 [**Audit Flow AI**](https://audit-flow-ai.onrender.com) | AI-powered control testing assistant that generates audit narratives, walkthroughs, and analyzes uploaded evidence. | Flask, Python, OpenAI API, Bootstrap | <details><summary>📸 View</summary><p align="center"><img src="IMG_URL_AUDIT_MAIN" alt="Audit Flow AI - Main form" width="85%"><br><br><img src="IMG_URL_AUDIT_TESTING" alt="Evidence Testing screen" width="85%"></p></details> |
-| 📄 [**Resume Tailor**](https://resumesync-py7e.onrender.com) | ATS-friendly web app that rewrites resumes to match job descriptions using GPT models. | Flask, HTML/CSS, OpenAI API | <details><summary>📸 View</summary><p align="center"><img src="IMG_URL_RESUME_STEP1" alt="Resume Step 1" width="85%"><br><br><img src="IMG_URL_RESUME_COMPARE" alt="Resume comparison view" width="85%"></p></details> |
-| ⚙️ [**Python**](https://github.com/Adeolaode0/Audit-Flow-AI) | Streamlines IT control test scripting, walkthroughs, and result narratives for SOX and ITGC. | Python, Flask, SQLite | <details><summary>📸 View</summary><p align="center"><img src="IMG_URL_CONTROL1" alt="Control details" width="85%"><br><br><img src="IMG_URL_CONTROL2" alt="Test script UI" width="85%"></p></details> |
+| 🧠 [**Audit Flow AI**](https://audit-flow-ai.onrender.com) | AI-powered control testing assistant that generates audit narratives, walkthroughs, and analyzes uploaded evidence. | Flask, Python, OpenAI API, Bootstrap | <details><summary>📸 View</summary><p align="center"><img src="https://i.imgur.com/fehAXd0.png" alt="Audit Flow AI - Main form" width="85%"><br><br><img src="https://i.imgur.com/QMG2iOG.png" alt="Evidence Testing screen" width="85%"></p></details> |
+| 📄 [**Resume Tailor**](https://resumesync-py7e.onrender.com) | ATS-friendly web app that rewrites resumes to match job descriptions using GPT models. | Flask, HTML/CSS, OpenAI API | <details><summary>📸 View</summary><p align="center"><img src="https://i.imgur.com/wHXvHv5.png" alt="Resume Step 1" width="85%"><br><br>
+| ⚙️ [**Python**](https://github.com/Adeolaode0/Audit-Flow-AI) | Streamlines IT control test scripting, walkthroughs, and result narratives for SOX and ITGC. | Python, Flask, SQLite | <details><summary>📸 View</summary><p align="center"><img src="https://i.imgur.com/uOHykti.png" alt="Control details" width="85%"><br><br><img src="https://i.imgur.com/e0yiy8i.png" alt="Test script UI" width="85%"></p></details> |
 
 
 ## 🧰 Skills & Tools
@@ -46,9 +45,9 @@ IT Auditor & programmer building AI tools for control testing, evidence analysis
 <details>
   <summary>📜 View certificates</summary>
   <p align="center">
-    <img src="IMG_URL_CISA_CERT" alt="CISA Prep Certificate" width="70%">
+    <img src="https://i.imgur.com/SR0GY3S.png" alt="CISA Prep Certificate" width="70%">
     <br/><br/>
-    <img src="IMG_URL_RECOGNITION" alt="Recognition Certificate" width="70%">
+    <img src="https://i.imgur.com/UPod8i4.jpeg" alt="Recognition Certificate" width="70%">
   </p>
 </details>
 
@@ -65,35 +64,6 @@ IT Auditor & programmer building AI tools for control testing, evidence analysis
 ## 📬 Connect
 <p align="center">
   <a href="https://linkedin.com/in/seunadeola">LinkedIn</a> •
-  <a href="mailto:adeoladevelopment@gmail.com">Email</a> •
-  <a href="https://audit-flow-ai.onrender.com">Audit Flow AI</a>
+  <a href="mailto:adeolaode0@gmail.com">Email</a> •
 </p>
-<h2>Control walk-through:</h2>
 
-<p align="center">
-Control details: <br/>
-<img src="https://i.imgur.com/fehAXd0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Test Script:  <br/>
-<img src="https://i.imgur.com/QMG2iOG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
-<h2>Certifications</h2>
-
-CISA PREP:  <br/>
-<img src="https://i.imgur.com/SR0GY3S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-Role of the CEO:  <br/>
-<img src="https://i.imgur.com/x3dTTZ5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-Responsible AI:  <br/>
-<img src="https://i.imgur.com/sEfJoRk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-Awards of Recorgnition:  <br/>
-<img src="https://i.imgur.com/UPod8i4.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
-
-
--[LinkedIn](https://www.linkedin.com/in/seunadeola/)
