@@ -18,7 +18,6 @@ Currently building web apps like **Audit Flow AI** and **Resume Tailor** to stre
 |----------|--------------|-------------|
 | [Audit Flow AI](https://audit-flow-ai.onrender.com) | AI-powered audit documentation assistant for control testing & evidence analysis. | Flask, OpenAI API, Python, HTML/CSS |
 | [Resume Tailor](https://resumesync-py7e.onrender.com) | Auto-tailors resumes to match job descriptions using NLP and GPT models. | Flask, OpenAI, Bootstrap |
-| [Github](https://github.com/Adeolaode0/Audit-Flow-AI) | Streamlines IT control testing workflows and evidence walkthroughs. | Python, Flask |
 
 
 ## 🧰 Tools & Technologies
