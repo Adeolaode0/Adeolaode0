@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Adeola Odeyemi</h1>
+<h1 align="center">👋 Hi, I'm Adeola Seun Odeyemi</h1>
 <h3 align="center">IT Auditor | AI Developer | Cyber Risk & Automation Enthusiast</h3>
 
 <p align="center">
@@ -46,7 +46,7 @@ Currently building web apps like **Audit Flow AI** and **Resume Tailor** to stre
 <p align="center">
   <a href="https://linkedin.com/in/seunadeola">LinkedIn</a> •
   <a href="https://github.com/Adeolaode0">GitHub</a> •
-  <a href="mailto:adeoladevelopment@gmail.com">Email</a>
+  <a href="mailto:adeolaode0@gmail.com">Email</a>
 </p>
 
 <h2>Control walk-through:</h2>
