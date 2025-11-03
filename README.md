@@ -39,15 +39,14 @@ IT Auditor & programmer building AI tools for control testing, evidence analysis
 ---
 
 ## 🏆 Certifications & Recognition
-- ISACA **CISA Prep** (LinkedIn Learning, May 2025)
 - **Certificate of Recognition** — Zions Bancorporation (Dec 2023)
 
 <details>
   <summary>📜 View certificates</summary>
   <p align="center">
-    <img src="https://i.imgur.com/SR0GY3S.png" alt="CISA Prep Certificate" width="70%">
-    <br/><br/>
     <img src="https://i.imgur.com/UPod8i4.jpeg" alt="Recognition Certificate" width="70%">
+    <br/><br/>
+    <img src="https://i.imgur.com/SR0GY3S.png" alt="CISA Prep Certificate" width="70%">
   </p>
 </details>
 
