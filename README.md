@@ -51,14 +51,6 @@ IT Auditor & programmer building AI tools for control testing, evidence analysis
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Adeolaode0&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeolaode0&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 📬 Connect
 <p align="center">
   <a href="https://linkedin.com/in/seunadeola">LinkedIn</a> •
