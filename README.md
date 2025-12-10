@@ -24,7 +24,7 @@ IT Auditor & programmer building AI tools for control testing, evidence analysis
 
 | Project | Description | Tech Stack | Screenshots |
 |----------|--------------|-------------|--------------|
-| 🧠 [**Audit Flow AI**](https://audit-flow-ai.onrender.com) | AI-powered control testing assistant that generates audit narratives, walkthroughs, and analyzes uploaded evidence. | Flask, Python, OpenAI API, Bootstrap | <details><summary>📸 View</summary><p align="center"><img src="https://i.imgur.com/fehAXd0.png" alt="Audit Flow AI - Main form" width="85%"><br><br><img src="https://i.imgur.com/QMG2iOG.png" alt="Evidence Testing screen" width="85%"></p></details> |
+| 🧠 [**Audit Flow AI**](https://audit-flow-ai.onrender.com) | AI-powered control testing assistant that generates audit narratives, walkthroughs, and analyzes uploaded evidence. | Flask, Python, OpenAI API, Bootstrap | <details><summary>📸 View</summary><p align="center"><img src="https://i.imgur.com/fehAXd0.png" alt="Audit Flow AI - Main form" width="85%"><br><br>
 | 📄 [**Resume Tailor**](https://resumesync-py7e.onrender.com) | ATS-friendly web app that rewrites resumes to match job descriptions using GPT models. | Flask, HTML/CSS, OpenAI API | <details><summary>📸 View</summary><p align="center"><img src="https://i.imgur.com/wHXvHv5.png" alt="Resume Step 1" width="85%"><br><br>
 
 
