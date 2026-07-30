@@ -2,7 +2,7 @@
 <h3 align="center">Cloud & DevOps Engineer | Infrastructure, CI/CD & Automation</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/seunadeola">
+  <a href="https://www.linkedin.com/in/adeola-odeyemi-503195286/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
   </a>
   <a href="https://audit-flow-ai.onrender.com">
