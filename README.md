@@ -66,7 +66,7 @@ I bridge the gap between cloud infrastructure engineering and automated complian
 
 ## 📬 Connect
 <p align="center">
-  <a href="https://linkedin.com/in/seunadeola">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/adeola-odeyemi-503195286/">LinkedIn</a> •
   <a href="mailto:adeolaode0@gmail.com">Email</a> •
 </p>
 
