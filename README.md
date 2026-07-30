@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Adeola Odeyemi</h1>
-<h3 align="center">IT Auditor • AI Developer • Cyber Risk & Automation</h3>
+<h3 align="center">Cloud & DevOps Engineer | Infrastructure, CI/CD & Automation</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/seunadeola">
@@ -15,25 +15,39 @@
 
 ---
 
-## 🚀 About
-IT Auditor & programmer building AI tools for control testing, evidence analysis, and workflow automation. I love turning messy audit processes into **repeatable, auditable, and explainable** systems.
+# 👋 Hi, I'm Adeola Odeyemi
+
+### Cloud & DevOps Engineer | Infrastructure, CI/CD & Automation
+
+I bridge the gap between cloud infrastructure engineering and automated compliance. Specialized in provisioning scalable cloud environments, building CI/CD pipelines, and integrating automated governance across AWS, Linux, and containerized ecosystems.
 
 ---
 
-## 🧩 Featured Projects
+### 🛠️ Tech Stack & Skills
 
-| Project | Description | Tech Stack | Screenshots |
-|----------|--------------|-------------|--------------|
-| 🧠 [**Audit Flow AI**](https://audit-flow-ai.onrender.com) | AI-powered control testing assistant that generates audit narratives, walkthroughs, and analyzes uploaded evidence. | Flask, Python, OpenAI API, Bootstrap | <details><summary>📸 View</summary><p align="center"><img src="https://i.imgur.com/fehAXd0.png" alt="Audit Flow AI - Main form" width="85%"><br><br>
-| 📄 [**Resume Tailor**](https://resumesync-py7e.onrender.com) | ATS-friendly web app that rewrites resumes to match job descriptions using GPT models. | Flask, HTML/CSS, OpenAI API | <details><summary>📸 View</summary><p align="center"><img src="https://i.imgur.com/wHXvHv5.png" alt="Resume Step 1" width="85%"><br><br>
+- **Cloud Platform:** AWS (EC2, S3, IAM, VPC, Route53)
+- **DevOps & CI/CD:** GitHub Actions, Docker, Kubernetes, Linux (Bash Scripting)
+- **Infrastructure as Code & Systems:** Terraform, Linux System Administration
+- **Development & Automation:** Python, Flask, REST APIs, SQL (SQLite/MySQL)
+- **Security & Compliance:** DevSecOps, Control Automation, Audit Trail Enforcement
 
+---
 
-## 🧰 Skills & Tools
-**Languages:** Python, SQL, JavaScript, HTML/CSS  
-**Frameworks:** Flask (learning React)  
-**Audit & GRC:** Archer GRC, SOX Testing, Evidence Walkthroughs  
-**Data/Infra:** SQLite/MySQL, Render, GitHub Actions, VS Code  
-**AI:** OpenAI API (chat/completions), prompt design, evaluation
+### 🚀 Featured Infrastructure & DevOps Projects
+
+| Project | Description | Tech Stack | Repository / Live |
+| :--- | :--- | :--- | :--- |
+| **3-Tier Cloud Infrastructure Lab** | Provisioned and isolated a local/cloud 3-tier environment featuring dedicated web, application, and database tiers with automated configuration. | Docker, AWS, Linux, Python | [View Repo](#) |
+| **Automated Compliance & Audit Engine** | Built a automated workflow engine that executes continuous evidence collection, control verification, and narrative logging for infrastructure testing. | Python, Flask, GitHub Actions, SQL | [View Repo](#) |
+| **Resume Tailor Application** | Automated web application for dynamically tailoring documents and analyzing ATS compatibility. | Python, Flask, HTML/CSS | [View Repo](#) |
+
+---
+
+### 📊 GitHub & DevOps Focus
+
+- 🔭 Currently building: Multi-container Kubernetes deployments and Terraform provisioning scripts.
+- 💬 Ask me about: AWS deployment strategies, Linux administration, Python automation, and DevSecOps.
+- 📫 Connect with me: [LinkedIn](https.www.linkedin.com/in/seunadeola) | [Email](mailto:your-email@example.com)
 
 ---
 
