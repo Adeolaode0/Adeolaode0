@@ -46,8 +46,7 @@ I bridge the gap between cloud infrastructure engineering and automated complian
 ### 📊 GitHub & DevOps Focus
 
 - 🔭 Currently building: Multi-container Kubernetes deployments and Terraform provisioning scripts.
-- 💬 Ask me about: AWS deployment strategies, Linux administration, Python automation, and DevSecOps.
-- 📫 Connect with me: [LinkedIn](https.www.linkedin.com/in/seunadeola) | [Email](mailto:your-email@example.com)
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/adeola-odeyemi-503195286/) | [Email](mailto:adeolaode0@gmail.com)
 
 ---
 
