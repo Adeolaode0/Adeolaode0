@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Adeola Odeyemi</h1>
-<h3 align="center">Cloud & DevOps Engineer | Infrastructure, CI/CD & Automation</h3>
+<h3 align="center">IT Audit | Cloud & DevOps Compliance Engineer | Infrastructure, CI/CD & Automation</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adeola-odeyemi-503195286/">
@@ -17,7 +17,7 @@
 
 # 👋 Hi, I'm Adeola Odeyemi
 
-### Cloud & DevOps Engineer | Infrastructure, CI/CD & Automation
+### IT Audit | Cloud & DevOps Compliance Engineer | Infrastructure, CI/CD & Automation
 
 I bridge the gap between cloud infrastructure engineering and automated compliance. Specialized in provisioning scalable cloud environments, building CI/CD pipelines, and integrating automated governance across AWS, Linux, and containerized ecosystems.
 
