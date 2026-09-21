@@ -33,6 +33,12 @@ I bridge the gap between cloud infrastructure engineering and automated complian
 
 ---
 
+### 🚀 Featured Projects
+
+- **[Terraform](https://github.com/Adeolaode0/Terraform)** — Production-style Terraform on AWS: multi-AZ VPC, ALB + auto-scaling, reusable modules, GitHub Actions CI
+
+---
+
 ### 📊 GitHub & DevOps Focus
 
 - 🔭 Currently building: Multi-container Kubernetes deployments and Terraform provisioning scripts.
