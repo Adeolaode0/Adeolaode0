@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Adeola Odeyemi</h1>
-<h3 align="center">IT Audit | Cloud & DevOps Compliance Engineer | Infrastructure, CI/CD & Automation</h3>
+<h3 align="center">Cloud Engineer | DevOps Engineer | AWS, Terraform, CI/CD & Automation</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adeola-odeyemi-503195286/">
+  <a href="https://www.linkedin.com/in/seunadeola/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
   </a>
   <a href="https://audit-flow-ai.onrender.com">
@@ -17,7 +17,7 @@
 
 # 👋 Hi, I'm Adeola Odeyemi
 
-### IT Audit | Cloud & DevOps Compliance Engineer | Infrastructure, CI/CD & Automation
+### Cloud Engineer | DevOps Engineer | AWS, Terraform, CI/CD & Automation
 
 I bridge the gap between cloud infrastructure engineering and automated compliance. Specialized in provisioning scalable cloud environments, building CI/CD pipelines, and integrating automated governance across AWS, Linux, and containerized ecosystems.
 
@@ -33,20 +33,10 @@ I bridge the gap between cloud infrastructure engineering and automated complian
 
 ---
 
-### 🚀 Featured Infrastructure & DevOps Projects
-
-| Project | Description | Tech Stack | Repository / Live |
-| :--- | :--- | :--- | :--- |
-| **3-Tier Cloud Infrastructure Lab** | Provisioned and isolated a local/cloud 3-tier environment featuring dedicated web, application, and database tiers with automated configuration. | Docker, AWS, Linux, Python | [View Repo](#) |
-| **Automated Compliance & Audit Engine** | Built a automated workflow engine that executes continuous evidence collection, control verification, and narrative logging for infrastructure testing. | Python, Flask, GitHub Actions, SQL | [View Repo](#) |
-| **Resume Tailor Application** | Automated web application for dynamically tailoring documents and analyzing ATS compatibility. | Python, Flask, HTML/CSS | [View Repo](#) |
-
----
-
 ### 📊 GitHub & DevOps Focus
 
 - 🔭 Currently building: Multi-container Kubernetes deployments and Terraform provisioning scripts.
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/adeola-odeyemi-503195286/) | [Email](mailto:adeolaode0@gmail.com)
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/seunadeola/) | [Email](mailto:adeolaode0@gmail.com)
 
 ---
 
@@ -68,4 +58,3 @@ I bridge the gap between cloud infrastructure engineering and automated complian
 <p align="center">
   <a href="mailto:adeolaode0@gmail.com">Email</a> •
 </p>
-
