@@ -35,6 +35,7 @@ I bridge the gap between cloud infrastructure engineering and automated complian
 
 ### 🚀 Featured Projects
 
+- **[Audit-Flow-AI](https://github.com/Adeolaode0/Audit-Flow-AI)** — AI-automated control testing documentation (Python, Flask)
 - **[Terraform](https://github.com/Adeolaode0/Terraform)** — Production-style Terraform on AWS: multi-AZ VPC, ALB + auto-scaling, reusable modules, GitHub Actions CI
 
 ---
